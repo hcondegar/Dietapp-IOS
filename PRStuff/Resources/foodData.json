@@ -1,0 +1,53 @@
+[
+    {
+        "name" : "Patata crua",
+        "values" : {"Proteïnes" : 2.2, "Hidrats de carboni" : 15.2, "Calci" : 11, "Fibra" : 1.7, "Lípids" : 0.2, "Ferro" : 0.7, "Caloríes" : 71},
+        "id" : 1001
+    },
+    {
+        "name" : "Pa blanc",
+        "values" : {"Proteïnes" : 8.3, "Hidrats de carboni" : 47, "Calci" : 56, "Fibra" : 3.5, "Lípids" : 1.6, "Ferro" : 1.6, "Caloríes" : 236},
+        "id" : 1002
+    },
+    {
+        "name" : "Monjeta tendra crua",
+        "values" : {"Proteïnes" : 2.2, "Hidrats de carboni" : 3.7, "Calci" : 56, "Fibra" : 2.8, "Lípids" : 0.4, "Ferro" : 1, "Caloríes" : 27},
+        "id" : 1003
+    },
+    {
+        "name" : "Taronja",
+        "values" : {"Proteïnes" : 1, "Hidrats de carboni" : 8.2, "Calci" : 40, "Fibra" : 1.69, "Lípids" : 0.1, "Ferro" : 0.3, "Caloríes" : 40},
+        "id" : 1004
+    },
+    {
+        "name" : "Poma",
+        "values" : {"Proteïnes" : 0.3, "Hidrats de carboni" : 10, "Calci" : 6, "Fibra" : 2.2, "Lípids" : 0, "Ferro" : 0.6, "Caloríes" : 41},
+        "id" : 1005
+    },
+    {
+        "name" : "Llet semi",
+        "values" : {"Proteïnes" : 3.4, "Hidrats de carboni" : 4.6, "Calci" : 120, "Fibra" : 0, "Lípids" : 1.6, "Ferro" : 0.1, "Caloríes" : 47},
+        "id" : 1006
+    },
+    {
+        "name" : "Formatge semi",
+        "values" : {"Proteïnes" : 20.7, "Hidrats de carboni" : 0, "Calci" : 746, "Fibra" : 0, "Lípids" : 28.3, "Ferro" : 1, "Caloríes" : 338},
+        "id" : 1007
+    },
+    {
+        "name" : "Vedella crua",
+        "values" : {"Proteïnes" : 20, "Hidrats de carboni" : 0, "Calci" : 56, "Fibra" : 0, "Lípids" : 6.6, "Ferro" : 2, "Caloríes" : 139},
+        "id" : 1008
+    },
+    {
+        "name" : "Oli d'oliva",
+        "values" : {"Proteïnes" : 0, "Hidrats de carboni" : 0, "Calci" : 0, "Fibra" : 0, "Lípids" : 99.9, "Ferro" : 0, "Caloríes" : 899},
+        "id" : 1009
+    },
+    {
+        "name" : "Sucre",
+        "values" : {"Proteïnes" : 0, "Hidrats de carboni" : 100, "Calci" : 1, "Fibra" : 0, "Lípids" : 0, "Ferro" : 0, "Caloríes" : 400},
+        "id" : 10010
+    }
+    
+]

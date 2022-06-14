@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21223.11" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CustomFood" representedClassName="CustomFood" syncable="YES" codeGenerationType="class">
+        <attribute name="calci" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="calories" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="ferro" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="fibra" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="hidrdecar" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="lipids" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="proteines" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="FavoriteType" representedClassName="FavoriteType" syncable="YES" codeGenerationType="class">
+        <attribute name="nameOfType" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Registro" representedClassName="Registro" syncable="YES" codeGenerationType="class">
+        <attribute name="food" optional="YES" attributeType="String"/>
+        <attribute name="quantity" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="time" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Usuario" representedClassName="Usuario" syncable="YES" codeGenerationType="class">
+        <attribute name="age" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="gender" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="genderName" optional="YES" attributeType="String"/>
+        <attribute name="height" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="sport" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="sportName" optional="YES" attributeType="String"/>
+        <attribute name="weight" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="CustomFood" positionX="-36" positionY="-81" width="128" height="149"/>
+        <element name="FavoriteType" positionX="-36" positionY="-81" width="128" height="44"/>
+        <element name="Registro" positionX="-151.36328125" positionY="-135.05078125" width="128" height="89"/>
+        <element name="Usuario" positionX="-45" positionY="-54" width="128" height="149"/>
+    </elements>
+</model>
