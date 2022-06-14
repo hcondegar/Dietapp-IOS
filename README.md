@@ -12,6 +12,3 @@ This is the Dietapp version for IOS, developed in Swift, using the latest techno
 - Stunning design, user friendly.
 - Your data under control, lock Dietapp with FaceID.
 - In-device data processing.
-
-
-## Photos
